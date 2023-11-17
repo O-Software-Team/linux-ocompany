@@ -11,7 +11,7 @@
 
 #include <dt-bindings/phy/phy-imx8-pcie.h>
 #include <dt-bindings/usb/pd.h>
-#include "imx8mp-odevice8mp-som.dtsi"
+#include "imx8mp-odevice8mp.dtsi"
 
 &iomuxc {
 	pinctrl-names = "default";
